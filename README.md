@@ -17,3 +17,7 @@ Click on the name of the challenge to see the solution.
         - An anagram involves forming one word by rearranging ALL the letters of another inital word
         - Is not necessary to check whether both words exist.
         - Two words that are exactly the same are not considered anagrams.
+    03. [The Fibonacci sequence](https://github.com/ValenProfitos/ejercicios/blob/main/JavaScript/fibonacci.js):
+        - Write a program that prints the first 50 numbers of the Fibonacci sequence starting from 0.
+        -The Fibonacci series is composed of a sequence of numbers in which the next number is always the sum of the two preceding ones.
+        - 0,1,1,2,3,5,8,13...
