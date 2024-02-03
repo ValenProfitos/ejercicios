@@ -21,3 +21,6 @@ Click on the name of the challenge to see the solution.
         - Write a program that prints the first 50 numbers of the Fibonacci sequence starting from 0.
         - The Fibonacci series is composed of a sequence of numbers in which the next number is always the sum of the two preceding ones.
         - 0,1,1,2,3,5,8,13...
+    04. [is it a Prime Number?](https://github.com/ValenProfitos/ejercicios/blob/main/JavaScript/primeNumber.js):
+        - Write a program that checks whether a number is prime or not.
+        - Once done, print the prime numbers between 1 and 100.
