@@ -24,3 +24,8 @@ Click on the name of the challenge to see the solution.
     04. [is it a Prime Number?](https://github.com/ValenProfitos/ejercicios/blob/main/JavaScript/primeNumber.js):
         - Write a program that checks whether a number is prime or not.
         - Once done, print the prime numbers between 1 and 100.
+    05. [Area of a polygon](https://github.com/ValenProfitos/ejercicios/blob/main/JavaScript/polygon.js):
+        - Create a sinle fuction (important that it's only one) capable of calculating and returning the area of a polygon
+        - The function will recieve only ONE polygon at a time as a parameter.
+        - Supported polygons are Triangle, Square and Rectangle.
+        - Print the area calculation for a polygon of each type
